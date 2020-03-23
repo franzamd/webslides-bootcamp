@@ -4,6 +4,8 @@
 
 ## Usage
 
+Live Previw in Github Pages: https://franzamd.github.io/webslides-bootcamp/
+
 You can open index.html or open with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## Source
